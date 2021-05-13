@@ -6,4 +6,4 @@ In julia with help of GraphRecipes developed
 Graph Routing and Animation
 
 
-! [](anim1. gif)
+![](anim1.gif)
